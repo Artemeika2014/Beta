@@ -1,0 +1,25 @@
+{
+  "name": "LOL Messenger",
+  "short_name": "LOL",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#070a10",
+  "background_color": "#070a10",
+  "icons": [
+    {
+      "src": "https://iili.io/BWMNdRs.jpg",
+      "sizes": "180x180",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://iili.io/BWMNdRs.jpg",
+      "sizes": "152x152",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://iili.io/BWMNdRs.jpg",
+      "sizes": "120x120",
+      "type": "image/jpeg"
+    }
+  ]
+}
